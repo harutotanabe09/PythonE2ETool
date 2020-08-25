@@ -188,3 +188,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Download File
+*.csv
