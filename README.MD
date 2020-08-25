@@ -31,7 +31,7 @@ $ brew cask install chromedriver
  ```bash
 $ python demo.py
 $ pytest demo_ide.py 
-$ pytest demo_download.py 
+$ pytest demo_download.py && python demo_filecontrol.py
  ```
 
 # :blue_book: Note
